@@ -1,0 +1,571 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+
+    <!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="x-apple-disable-message-reformatting">
+
+    <!--[if !mso]>
+<!-->
+
+    <!--<![endif]-->
+    <title>Save the Turtles</title>
+
+    <!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+		li { text-indent: -1em; /* Normalise space between bullets and text */ }
+	</style>
+	<![endif]-->
+    <style>
+      @font-face {
+        font-family: 'Lato';
+        font-style: italic;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Lato Italic'), local('Lato-Italic'), url('https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-v.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'Lato';
+        font-style: italic;
+        font-weight: 700;
+        font-display: swap;
+        src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url('https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Lato Regular'), local('Lato-Regular'), url('https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wWw.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: local('Lato Bold'), local('Lato-Bold'), url('https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPHA.ttf') format('truetype');
+      }
+      body {
+        padding: 0 !important;
+        margin: 0 !important;
+        display: block !important;
+        min-width: 100% !important;
+        width: 100% !important;
+        background: #F3783C;
+        -webkit-text-size-adjust: none;
+      }
+      img {
+        -ms-interpolation-mode: bicubic;
+      }
+      @media only screen and (max-device-width: 480px) {
+        .mobile-shell {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+        .center {
+          margin: 0 auto !important;
+        }
+        .td {
+          width: 100% !important;
+          min-width: 100% !important;
+          padding: 24px 24px 0px 24px !important;
+        }
+        .mobile-br-5 {
+          height: 5px !important;
+        }
+        .mobile-br-10 {
+          height: 10px !important;
+        }
+        .mobile-br-15 {
+          height: 15px !important;
+        }
+        .mobile-br-25 {
+          height: 25px !important;
+        }
+        .mobile-br-35 {
+          height: 35px !important;
+        }
+        .header {
+          padding: 30px 15px 32px 15px !important;
+        }
+        .main {
+          padding: 40px 40px 40px 40px !important;
+        }
+        .content {
+          padding: 0px 15px 40px 15px !important;
+        }
+        .footer {
+          padding: 30px 15px 30px 15px !important;
+        }
+        .m-td {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+          min-height: 0 !important;
+        }
+        .hide-for-mobile {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+          min-height: 0 !important;
+        }
+        .mobile-block {
+          display: block !important;
+        }
+        .text-footer {
+          text-align: center !important;
+        }
+        .text-footer-r {
+          text-align: center !important;
+        }
+        .img-m-center {
+          text-align: center !important;
+        }
+        .mobshow {
+          display: block !important;
+          width: 100% !important;
+          height: auto !important;
+          overflow: visible !important;
+          float: none !important;
+          visibility: visible !important;
+          border: none !important;
+          font-size: 15px !important;
+        }
+        .fluid-img img {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+        }
+        .column {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .column-top {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .column-bottom {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .column-dir {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .content-spacing {
+          width: 15px !important;
+        }
+        .mobText {
+          font-size: 30px !important;
+          line-height: 42px !important;
+        }
+        .mobBtn {
+          padding: 20px 30px !important;
+          width: auto !important;
+          border-radius: 6px !important;
+        }
+        .mobSigImage {
+          width: 180px !important;
+          height: 180px !important;
+        }
+        .mobileBullets {
+          width: 16px !important;
+          height: 16px !important;
+          margin-top: 6px !important;
+        }
+      }
+      @media only screen and (max-width: 480px) {
+        .mobile-shell {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+        .center {
+          margin: 0 auto !important;
+        }
+        .td {
+          width: 100% !important;
+          min-width: 100% !important;
+          padding: 24px 24px 0px 24px !important;
+        }
+        .mobile-br-5 {
+          height: 5px !important;
+        }
+        .mobile-br-10 {
+          height: 10px !important;
+        }
+        .mobile-br-15 {
+          height: 15px !important;
+        }
+        .mobile-br-25 {
+          height: 25px !important;
+        }
+        .mobile-br-35 {
+          height: 35px !important;
+        }
+        .header {
+          padding: 30px 15px 32px 15px !important;
+        }
+        .main {
+          padding: 40px 40px 40px 40px !important;
+        }
+        .content {
+          padding: 0px 15px 40px 15px !important;
+        }
+        .footer {
+          padding: 30px 15px 30px 15px !important;
+        }
+        .m-td {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+          min-height: 0 !important;
+        }
+        .hide-for-mobile {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+          min-height: 0 !important;
+        }
+        .mobile-block {
+          display: block !important;
+        }
+        .text-footer {
+          text-align: center !important;
+        }
+        .text-footer-r {
+          text-align: center !important;
+        }
+        .img-m-center {
+          text-align: center !important;
+        }
+        .mobshow {
+          display: block !important;
+          width: 100% !important;
+          height: auto !important;
+          overflow: visible !important;
+          float: none !important;
+          visibility: visible !important;
+          border: none !important;
+          font-size: 15px !important;
+        }
+        .fluid-img img {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+        }
+        .column {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .column-top {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .column-bottom {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .column-dir {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .content-spacing {
+          width: 15px !important;
+        }
+        .mobText {
+          font-size: 30px !important;
+          line-height: 42px !important;
+        }
+        .mobBtn {
+          padding: 20px 30px !important;
+          width: auto !important;
+          border-radius: 6px !important;
+        }
+        .mobSigImage {
+          width: 180px !important;
+          height: 180px !important;
+        }
+        .mobileBullets {
+          width: 16px !important;
+          height: 16px !important;
+          margin-top: 6px !important;
+        }
+      }
+    </style>
+  </head>
+
+  <!------------------ ALSO, CHANGE BACKGROUND COLOR ----------------------------->
+  <body class="body" style="display: block !important; min-width: 100% !important; width: 100% !important; -webkit-text-size-adjust: none; margin: 0; padding: 0;" bgcolor="#F3783C">
+    <div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">It’s been a little while</div>
+    <table bgcolor="#F3783C" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+      <!------------------------------------------------------------------------------>
+      <tbody>
+        <tr>
+          <td align="center" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" class="mobile-shell" width="600">
+              <tbody>
+                <tr>
+                  <td class="td" style="width: 600px; min-width: 600px; font-size: 0pt; line-height: 0pt; font-weight: normal; margin: 0; padding: 40px 0px;">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody>
+                        <tr>
+                          <td align="center" style="padding: 0px 50px 40px;">
+
+                            <!---------------------- CHANGE LOGO HERE -------------------><a href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtTEcFT8hfo5otvD-2BhE3ylbC77OAY-2BcO7Pj03c88wQla7ZlOr_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0cspPkhbIqQsnpi3sX6dxNFgOOsm4jEGb55I9lZAf2-2FXQKGc7Z4rtnWcf5wWajpzdix1h8Ajgn4d-2Bh1Iba4L8caTk9GjYt1Vqfwi9I2lP6wItcM0oxd8IAwwunua3O50-2FkLpmiUw4FKvEJUwHioSFBkSv-2BbZu0fdSQ8VoAKhHMqcg-3D-3D" style="display: block; text-decoration: none; outline: none; color: #2362c0;"><img alt="YNAB" height="36" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d8e5f617bdadd35ce8c5a91/original.png?1569611617" style="display: block; -ms-interpolation-mode: bicubic;" width="142"> </a>
+
+                            <!------------------------------------------------------------>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody>
+                        <tr>
+                          <td align="center" style="">
+
+                            <!---------------------- CHANGE HERO IMAGE HERE -------------------><img alt="YNAB coach!" height="376" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d8e7f287bdadd35ce8c5cb2/original.jpg?1569619752" style="display: block; -ms-interpolation-mode: bicubic;" width="600">
+
+                            <!----------------------------------------------------------->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                    <!-- Main -->
+
+                    <!-- Header -->
+
+                    <!-- END Header -->
+                    <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody>
+                        <tr>
+                          <td class="main" style="padding: 50px 50px 0px;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tbody>
+
+                                <!---------SUB HEADLINE - NO BACKGROUND COLOR------------>
+                                <tr>
+                                  <td style="padding-bottom: 24px;">
+                                    <div class="text" style="color: #25384F; font-family: 'Lato', Helvetica, Arial,sans-serif; font-weight: bold; font-size: 22px; line-height: 28px;" align="left"><strong><span class="mobText" style="color: #25384F;">Hey there, </span></strong></div>
+                                  </td>
+                                </tr>
+
+                                <!-------------------------------------------------------->
+
+                                <!---------PARAGRAPH TEXT------------>
+                                <tr>
+                                  <td style="padding-bottom: 30px;">
+                                    <div class="text" style="color: #25384F; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 16px; line-height: 24px;" align="left"><span class="mobText" style="color: #25384F;">I know it’s tempting to throw in the towel, maybe you haven’t looked at your budget in a few days. Don’t give up now! You might want to go back to your old ways, but don’t fall into that trap! You can change your money story for good, and it starts right now. </span></div>
+                                  </td>
+                                </tr>
+
+                                <!------------------------------------>
+
+                                <!---------BUTTON - CHANGE WIDTH AND TEXT IF NECESSARY IN TWO PLACES - CURRENTLY 250px------------>
+                                <tr>
+                                  <td align="center" style="padding-bottom: 30px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" style="">
+                                            <div>
+
+                                              <!--[if mso]>
+													          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://app.youneedabudget.com/users/authentication" style="height:36px;v-text-anchor:middle;width:200px;" arcsize="5%" strokecolor="#4495D7" fillcolor="#4495D7">
+													            <w:anchorlock/>
+													            <center style="color:#ffffff;font-family:Helvetica, Arial,sans-serif;font-size:16px;">BUTTON TEXT 1</center>
+													          </v:roundrect>
+													        <![endif]--><a class="mobText mobBtn" href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtZKRTCMUmaEP0uEO18kYvZKCa9MzS5cy6ftzKWa62H-2BN4m7K-2FHn8b4p05-2Ff3R-2FB2Xg-3D-3Ds_MM_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0ck5VuyJTMI02Gbc7AUnaT6zkQFd0Jlqhep6v8ZopUNotzWcwfGLaLkm-2BjjGnPLcTVhgn1Ra7N08hDI9079MWNRHRWsBr1s2psxaoVgqFRJRcsSAfRSubtqUC1cB0Ga-2B4g8r75CX6cT2KTe1X4PEHuZAmttmf5Dq-2BKmmE5v-2BrUNEQ-3D-3D" style="background-color: #4495D7; border-radius: 3px; color: #FFFFFF; display: inline-block; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 16px; font-weight: bold; line-height: 44px; text-align: center; text-decoration: none; width: 200px; -webkit-text-size-adjust: none; mso-hide: all; border-color: #4495d7 #4495d7 #347fc0; border-style: solid; border-width: 1px 1px 5px;">Check Your Budget </a>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+
+                                <!------------------------------------>
+
+                                <!----------------------------CLOSING SALUTATION---------------------->
+                                <tr>
+                                  <td style="padding-bottom: 20px;">
+                                    <div class="text" style="color: #25384F; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 16px; line-height: 24px;" align="left"><span class="mobText" style="color: #25384F;">Happy budgeting, </span></div>
+                                  </td>
+                                </tr>
+
+                                <!--------------------------------------------------------------------->
+
+                                <!----------------------------ACTUAL SIGNATURE---------------------->
+                                <tr>
+                                  <td style="padding-bottom: 4px;">
+                                    <div class="img" style="font-size: 0pt; line-height: 0pt;" align="left"><a href="#" target="_blank" style="color: #2362c0; text-decoration: underline;"><img alt="" border="0" height="71" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5dded0e503bd871cbabc7d56/original.jpg?1574883557" width="100" style="-ms-interpolation-mode: bicubic;"></a></div>
+                                  </td>
+                                </tr>
+
+                                <!------------------------------------------------------------------>
+
+                                <!----------------------------SIGNATURE TEXT---------------------->
+                                <tr>
+                                  <td style="padding-bottom: 20px;">
+                                    <div class="text" style="color: #25384F; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 16px; line-height: 24px;" align="left"><span class="mobText" style="color: #25384F;">Teacher at YNAB </span></div>
+                                  </td>
+                                </tr>
+
+                                <!---------------------------------------------------------------->
+
+                                <!----------------------------ROUND IMAGE OF YNABER - CHANGE OUT IMAGE SRC AND ALT TEXT---------------------->
+                                <tr>
+                                  <td align="left" style="padding-bottom: 30px;">
+                                    <div style="" align="left">
+                                      <img alt="Kelly from YNAB" class="mobSigImage" height="88" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5dded0e5c556aa6b7a88d5a0/original.jpg?1574883557" style="display: inline-block; -ms-interpolation-mode: bicubic;" width="88"><br>
+                                    </div>
+                                  </td>
+
+                                  <!---------PARAGRAPH TEXT  WITH LINK  JUST CHANGE THE HREF LINK------------>
+                                </tr>
+                                <tr>
+                                  <td style="padding-bottom: 30px;">
+                                    <div class="text" style="color: #25384F; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 16px; line-height: 24px;" align="left"><span class="mobText" style="color: #25384F;">P.S. <em>Need some extra motivation? Read about how this couple paid off <a href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtTEcFT8hfo5otvD-2BhE3ylbCEYP5oBqWfdEKDaTHVk-2FBtBI1aAp1nMkOkmCGF8gNV-2Bb7yt-2FdLlQfqix8lahj2LmxaTJS7ZTp9fYfIfUwVcaHowLBs_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0dT4InRLRcJ9vCRatKGwuxX6rbGcK3FUkWxRoVBaxu-2FfJ5rX495umMUTMa54dh-2FnXcOIiz3JCSPa3CzuMesmV-2Beftbp8jKtjK0P3igSYC35KZdl-2FO5I-2FCx9-2FLfqtIsiXXIy6Ltya2RrQyWRS92n0BUEKLykabVbgkId9Y-2FrFiiTSg-3D-3D" style="text-decoration: none; color: #4495D7;">$31,000 in 12 months</a>.</em> </span></div>
+                                  </td>
+                                </tr>
+
+                                <!------------------------------------>
+                              </tbody>
+                            </table>
+
+                            <!-- END Content -->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                    <!-- END Main -->
+
+                    <!-- Footer -->
+
+                    <!-------------------------------------FOOTER------------------------------------------->
+                    <table bgcolor="#25384F" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <tbody>
+                        <tr>
+                          <td class="main" style="padding: 30px 50px 0px;">
+
+                            <!-- Content -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td style="padding-bottom: 20px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" width="109"></td>
+                                          <td align="center" style="" width="64"><a href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtf9iu49tIOfYhYqsEu1M7Dc-2BTyv7w0tGAbBrSrNrBSiKSU1h_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0eVGIFFSI-2Fe3sB6toXELLSF8tktBanUW-2FZMRoLDfVd6cHrbBZm7IhlaE0Jx1mA3H-2Fio6U36bcwB0ITPti-2BV-2B3DzxdkC-2FIF3ErBzc3bCwfwEMSISBJpny7bzdwCiTFv1U4WYcBK0NMZG4-2BctRxI2wpS5T1qXqh4TlMUw493-2FiofcbA-3D-3D" style="display: inline-block; text-decoration: none; outline: none; color: #2362c0;"><img height="55" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5dd8287c4c720359dd1ca122/original.jpg?1574447228" style="display: block; -ms-interpolation-mode: bicubic;" width="64"> </a></td>
+                                          <td align="center" width="9"></td>
+                                          <td align="center" style="" width="64"><a href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtSBJmRQOqycEE8UkEBpnCXeNiY38mLPdxeNTY9MxTx-2F3I6rAAF6wUwTxLMxbZ3-2BxtQ-3D-3D0Pe-_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0cgdlkQWbr3D89OCU2xqi0dyiuaO49vN38vz-2F6jW7lcPbRN4F8Hpr6lHHfzscPlAA5c7v06gqv5nIFhcPjqXTqiKtBhFASzn0aaBGfaqyY5JLtIRypTczcyMgV-2FskTPoq-2BzTVWYk7czc3TLK0UML-2BWV2sVE3ifrEJDaXtNoGcK-2FNg-3D-3D" style="display: inline-block; text-decoration: none; outline: none; color: #2362c0;"><img height="55" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5dd8287c36e9d97ba220f7fd/original.jpg?1574447228" style="display: block; -ms-interpolation-mode: bicubic;" width="64"> </a></td>
+                                          <td align="center" width="9"></td>
+                                          <td align="center" style="" width="64"><a href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtYLIr0TnO-2BmRWoYuM6NL30211gWdZEspvw1BWTXXOtk8PCkKL-2B0-2F-2F-2Fg9CTi2feiH8vqZHdfwXWGTblqPUBKisYJOUXWu5jLasgRcD9ZD1Nq-2FphLr_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0d-2FtfA5ByiedB8kYyEvEsO98rwWtEMPRX3pa9J8GkMWOS89fMHKOODJAQ4KH-2BJDnlXCleSgmA5EN442tYqDcCy5dy0S0y29Bvy5Ap4EwRqL48h3G3yiOavDewIaprYVkX4gKSDWBqjtUnEEGFcMvyUJ6OG-2FIrcy-2FI-2F22WhXtu5kFQ-3D-3D" style="display: inline-block; text-decoration: none; outline: none; color: #2362c0;"><img height="55" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5f32fe7a2b07493b5b292f9b/original.jpg?1597177466" style="display: block; -ms-interpolation-mode: bicubic;" width="64"> </a></td>
+                                          <td align="center" width="9"></td>
+                                          <td align="center" style="" width="64"><a href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtVqG8mKbnmOzyTeOy5CT4Mc9e-2Bkt0JW3m-2BLTTcUMUwnh8mceUs7YDgO26ce5TyQTMA-3D-3DAlGY_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0eSUUiHF8S0AEgo4dOKET7QH-2FBFR06ZWJhz-2BfjpK-2BQk4rc3h2Fp4-2B9gXOKTEtqz-2FP5RMDvOC2eXfYzkqgkOUSM4s6YL8zTqAB6XJN4iMd5eqbqEESFSO8w5oV5MhgmkyQW6zNZjKkSZYIjCoWrN9CeXse2DL-2Bbh1akDf0Sl2aitlA-3D-3D" style="display: inline-block; text-decoration: none; outline: none; color: #2362c0;"><img height="55" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5dd8287cd5b6823c45b69082/original.jpg?1574447228" style="display: block; -ms-interpolation-mode: bicubic;" width="64"> </a></td>
+                                          <td align="center" width="108"></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-bottom: 20px;">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td style="padding-bottom: 6px;">
+                                            <div class="text" style="color: #85C3E9; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 16px; line-height: 24px;" align="center"><span class="mobText" style="color: #85C3E9;"><a href="http://ablink.email.youneedabudget.com/ls/click?upn=NhIKhDEsR0bRyNblP9iYtTEcFT8hfo5otvD-2BhE3ylbBckorE2tJsUwhXLKJS-2Bw4efErFgBIv07CtqCoAxLbrog-3D-3Dx1EU_U82AmlvXB50MLnE1BOqL8CGP4L1AlUs-2FLZy5pxLd7UAq7QBpVpWZsHk-2BnHpLa5O2ppZoTljSAOsf74dXstbHUCJihIsaWvCy8dFFu2oZcOAJSCkvL4FHsx9EjDP0dhZ7RxGfY9O7PC1748-2BhbM-2FR4JLOE3iU2KtUWpjWfDCE4YAWKtFXOBdme0TQCqEyyUeCQqm-2FSZksY0wg2qFuDRd9el7G4qSBPLzW8je7g9dzfDVry4z47L5flvImeB8GAyfAByHNBiGZGxHt8dgy9n-2FsZS2knAgsE2Trcar8-2BxRSzDFunju4P9cWAMMJF3UDfFXtetFmCMgs-2Bm9sJqAblIsofK83ErA-2BnLQCRfmUJnR7E3-2BB-2FVCoSIDMO3Ip4OVJHU7DbRsNdIlnkLP-2BQemAH1nC2u8WtKuSfMKTvbiJiHySdbKv7dn5gfOqFN6sXgdW6gEF24-2Bc1082DFYI0ShnhS-2BRRRw32EvOge6NOx3NaNK-2F4GVO8KQWR4Czq-2FzQW1xJmXil0s8h32ywNp-2FdAKqfX3nKNN-2FBbw7AjS0IcbGkzrMF8U24GEkqLFjs-2FKMFLAJp2MJO4oykk2lHaLJFnKJ7DDvGIDAfY7kc0x1GXmi9LxGoC0cnWMa9REw4F9gKV9c1w32GkNA58vcpqfZnC6vXgHyL7-2FqEworNboqqLLM-2FV8ARN1DFgarSw5guFYD-2B-2FskNIX0A232gGP-2Bc8lfq6-2BLNxQ7-2B40A1zy1DhiCcjQaVEi8PJFZerIa56Mr-2FZWlbdObSK0J3qAbAn-2FtDW51Wpyt-2FKXePVw-3D-3D" style="text-decoration: none; color: #85C3E9; font-weight: bold;">Subscribe to Our Newsletter</a> </span></div>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td style="padding-bottom: 10px;">
+                                            <div class="text" style="color: #85C3E9; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 16px; line-height: 24px;" align="center"><span class="mobText" style="color: #85C3E9;"><a href="mailto:help@youneedabudget.com" style="text-decoration: none; color: #85C3E9; font-weight: bold;">Contact Support</a> </span></div>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td style="padding-bottom: 10px;">
+                                            <div class="text" style="color: #85C3E9; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 12px; line-height: 18px;" align="center"><span style="color: #85C3E9;"><span class="mobText">Copyright ©2020 You Need A Budget. All rights reserved</span> </span></div>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td>
+                                            <div class="text" style="color: #85C3E9; font-family: 'Lato', Helvetica, Arial,sans-serif; font-size: 12px; line-height: 18px;" align="center"><span class="mobText" style="color: #85C3E9;"><a href="#" style="color: #85C3E9; text-decoration: none;" target="_blank"><span style="color: #85C3E9; text-decoration: none;">Unsubscribe from our emails</span></a> </span></div>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="">
+
+                                    <!----------------------CHANGE ROUNDED CORNER BACKGROUND COLOR HERE----------------------->
+
+                                    <!-------------SKY BLUE-------------><img height="19" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d8e7f283ea25b0e099435c3/original.jpg?1569619752" style="display: block; -ms-interpolation-mode: bicubic;" width="600">
+
+                                    <!----------------------------------------------------------------------------------------->
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                    <!-- END Footer -->
+
+                    <!---------------------------------------------------------------------->
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    </body>
+</html>
